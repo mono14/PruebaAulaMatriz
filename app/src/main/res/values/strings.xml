@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">PrimeraClaseAndroid</string>
+    <string name="Primer_Texto">primera caja de texto</string>
+    <string name="segunda_caja">segundo texto</string>
+    <string name="prueba_texto">Prueba de texto</string>
+    <string name="titulo_bienvenida">Aula Peliculas</string>
+    <string name="descripcion_bienvenida">Esta es una aplicacion de ejemplo para el curso de desarrollo android</string>
+    <string name="acerca_de_bienvenida">Acerca de</string>
+    <string name="boton_empezar_ahora_bienvenida">Empezar ahora</string>
+
+    <string name="añadir">Añadir</string>
+    <string name="quitar">Quitar</string>
+
+    <string name="add_cart">Añadir</string>
+    <string name="remove_cart">Quitar</string>
+    <string name="resumen">resumen</string>
+    <string name="trailers">trailers</string>
+
+    <!-- Login -->
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="olvidar_conytraseña">Olvidaste tu contraseña?</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="crear_cuenta">Crear cuenta</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Menu boton -->
+    <string name="menu_peliculas">Peliculas</string>
+    <string name="menu_mapa">Mapa</string>
+    <string name="menu_perfil">Perfil</string>
+    <string name="menu_sms">SMS</string>
+
+    <!--mensaje para los mensajes-->
+    <string name="telefono_sms">Telefono</string>
+    <string name="mensaje_sms">Texto</string>
+    <string name="fecha_sms">Fecha</string>
+
+    <!--para dar PERMISOS-->
+    <string name="label_permiso_aulamovies">Permiso Aula Movies</string>
+    <string name="descripcion_permiso_aulamovies">acceder a la actividad de Login de la aplicación
+        Aula Movies, esto podría ayudarle a entender como funcionan los permisos</string>
+
+
+    <!--content provider-->
+    <string name="starting_content_provider">Iniciando....</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/peliculasFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_movie_filter_24"
+        android:title="@string/menu_peliculas"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/mapaFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/menu_mapa"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/perfilFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_supervised_user_circle_24"
+        android:title="@string/menu_perfil"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/smsFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_sms_24"
+        android:title="@string/menu_sms"
+        app:showAsAction="ifRoom" />
+</menu>
